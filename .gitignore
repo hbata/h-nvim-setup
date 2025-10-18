@@ -1,0 +1,17 @@
+lazy-lock.json
+# Plugin data (auto-generated)
+plugin/
+*.luac
+*.log
+# Neovim swap files
+*.swp
+*.swo
+*~
+# Backup files
+*.bak
+*.backup
+# OS-specific files
+.DS_Store
+Thumbs.db
+tmp/
+temp/
